@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.CleanChat" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">@color/statusBarColor</item>
+    </style>
+
+    <style name="Theme.CleanChat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.CleanChat.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.CleanChat.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

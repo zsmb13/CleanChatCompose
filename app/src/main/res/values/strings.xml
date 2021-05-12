@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clean Chat</string>
+
+    <!-- Common -->
+    <string name="user_online">Online</string>
+    <string name="user_last_activity">Last activity %s</string>
+
+    <!-- Contacts -->
+    <string name="contacts_title">Contacts</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="search_hint">Search</string>
+
+    <!-- Messages -->
+    <string name="messages_title">Messages</string>
+    <string name="messages_new_count">%d new messages</string>
+</resources>

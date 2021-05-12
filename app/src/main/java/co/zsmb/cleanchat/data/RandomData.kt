@@ -71,7 +71,7 @@ fun randomUser(): User {
                 minTime.toEpochMilli(),
                 maxTime.toEpochMilli()
             )
-        ) // May 1st - May 11th 2021
+        )
     )
 }
 
